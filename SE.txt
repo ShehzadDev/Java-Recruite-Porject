@@ -1,0 +1,6 @@
+Program Name: SE
+Minimum industry salary SAR 5000.0
+Minimum required previous GPA 3.0
+Computer Programming interest of student: Low
+Industry job category: Software Engineer
+Required acceptable GPA in industry 3.5

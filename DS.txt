@@ -1,0 +1,6 @@
+Program Name: DS
+Minimum industry salary SAR 6000.0
+Minimum required previous GPA 3.5
+Computer Programming interest of student: Medium
+Industry job category: Data Analyst/Data Scientist
+Required acceptable GPA in industry 3.5

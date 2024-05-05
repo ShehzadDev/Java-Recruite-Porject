@@ -1,0 +1,6 @@
+Program Name: CY
+Minimum industry salary SAR 7000.0
+Minimum required previous GPA 3.5
+Computer Programming interest of student: Very high
+Industry job category: Cybersecurity Engineer
+Required acceptable GPA in industry 4.0

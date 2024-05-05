@@ -1,0 +1,77 @@
+ID: 2112235
+Studen Name: Fotoon
+Minimum industry salary: 7000
+GPA: 5.0
+Computer programming interest: Very High
+The suggested program for student is: CY
+----------------------------
+ID: 1234567
+Studen Name: sss
+Minimum industry salary: 3000
+GPA: 4.0
+Computer programming interest: 1Very High
+The suggested program for student is:  -CY -DS -CNE -SE
+----------------------------
+ID: 1122334
+Studen Name: sssd
+Minimum industry salary: 9000
+GPA: 4.0
+Computer programming interest: 2High
+The suggested program for student: 
+----------------------------
+ID: 1425367
+Studen Name: grvg
+Minimum industry salary: 4000
+GPA: 1.0
+Computer programming interest: 1Very High
+The suggested program for student: 
+----------------------------
+ID: 2010680
+Studen Name: maya
+Minimum industry salary: 2000
+GPA: 3.0
+Computer programming interest: 2High
+The suggested program for student:  -CNE -SE
+----------------------------
+ID: 0000000
+Studen Name: sabreen
+Minimum industry salary: 2500
+GPA: 3.2
+Computer programming interest: 1Very High
+The suggested program for student:  -CNE -SE
+----------------------------
+ID: 2114060
+Studen Name: manar
+Minimum industry salary: 5000
+GPA: 3.7
+Computer programming interest: 1Very High
+The suggested program for student:  -CY -DS -CNE -SE
+----------------------------
+ID: 2222222
+Studen Name: sss
+Minimum industry salary: 5000
+GPA: 3.2
+Computer programming interest: 1Very High
+The suggested program for student:  -CNE -SE
+----------------------------
+ID: 8888888
+Studen Name: rfdfd
+Minimum industry salary: 5000
+GPA: 3.2
+Computer programming interest: 1Very High
+The suggested program for student:  -CNE -SE
+----------------------------
+ID: 2342345
+Studen Name: hhh
+Minimum industry salary: 5000
+GPA: 3.2
+Computer programming interest: 1Very High
+The suggested program for student:  -CNE -SE
+----------------------------
+ID: 1112223
+Studen Name: ghjk
+Minimum industry salary: 5000
+GPA: 3.15
+Computer programming interest: 1Very High
+The suggested program for student:  -CNE -SE
+----------------------------

@@ -1,0 +1,28 @@
+CY
+Minimum industry salary:7000
+Minimum required previous GPA: 3.5
+Computer Programming interest of student: 1Very high
+Industry job category: Cybersecurity Engineer
+Required acceptable GPA in industry: 4.0
+-------------------------------------------------
+DS
+Minimum industry salary:6000
+Minimum required previous GPA: 3.5
+Computer Programming interest of student: 3Medium
+Industry job category: Data Analyst/Data Scientist
+Required acceptable GPA in industry: 3.5
+-------------------------------------------------
+CNE
+Minimum industry salary:5000
+Minimum required previous GPA: 3.0
+Computer Programming interest of student: 2High
+Industry job category: Network Engineer
+Required acceptable GPA in industry: 3.5
+--------------------------------------------------
+SE
+Minimum industry salary:5000
+Minimum required previous GPA: 3.0
+Computer Programming interest of student: 4Low
+Industry job category: Software Engineer
+Required acceptable GPA in industry: 3.5
+-------------------------------------------------
